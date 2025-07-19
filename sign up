@@ -28,7 +28,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
     print("Name: ${nameController.text}");
     print("Email: ${emailController.text}");
     print("Password: ${passwordController.text}");
-    // ممكن هنا تبعتي البيانات لأي backend بعدين
+   
   }
 
   @override
